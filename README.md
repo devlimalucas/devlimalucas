@@ -2,6 +2,8 @@
 
   Atualmente, estou em busca da minha primeira oportunidade no mundo do desenvolvimento. Tenho um forte interesse em Front-end, mas estou aberto a novos desafios. Possuo experiência em stacks como React JS, HTML, CSS, Javascript, Redux, Context API, Hooks e Router, e estou sempre buscando aprender novas tecnologias para aprimorar minhas habilidades. Estou animado para contribuir em projetos inovadores e colaborar com equipes talentosas.</p>
 
+<h2>Tecnologias e ferramentas:</h2>
+
  <div align="center">
     <img
       src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
