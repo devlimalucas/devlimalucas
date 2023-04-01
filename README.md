@@ -125,5 +125,11 @@ Atualmente, estou em busca da minha primeira oportunidade no mundo do desenvolvi
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasLimaPE&" alt="LucasLimaPE" width=400px />
 </p>
-
+<br>
 </div>
+<br>
+<h2>Contato:</h2>
+<div>Email: robertolucas011@gmail.com</div>
+<div>Linkedin: https://www.linkedin.com/in/dev-lucas-lima-pe/</div>
+<div>Telefone: (87) 99167-5622</div>
+<br>
