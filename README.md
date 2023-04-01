@@ -1,6 +1,6 @@
   <p>Sou um entusiasta da tecnologia desde a infância, sempre fui fascinado em resolver problemas de forma lógica, tanto em jogos quanto no dia a dia. Recentemente, concluí o curso da Trybe, onde adquiri habilidades em Desenvolvimento Web Full Stack e me tornei capaz de criar soluções tecnológicas.
 
-  Atualmente, estou em busca da minha primeira oportunidade no mundo do desenvolvimento. Tenho um forte interesse em Front-end, mas estou aberto a novos desafios. Possuo experiência em stacks como React JS, HTML, CSS, Javascript, Redux, Context API, Hooks e Router, e estou sempre buscando aprender novas tecnologias para aprimorar minhas habilidades. Estou animado para contribuir em projetos inovadores e colaborar com equipes talentosas.</p>
+Atualmente, estou em busca da minha primeira oportunidade no mundo do desenvolvimento. Tenho um forte interesse em Front-end, mas estou aberto a novos desafios. Possuo experiência em stacks como React JS, HTML, CSS, Javascript, Redux, Context API, Hooks e Router, e estou sempre buscando aprender novas tecnologias para aprimorar minhas habilidades. Estou animado para contribuir em projetos inovadores e colaborar com equipes talentosas.</p>
 
 <h2>Tecnologias e ferramentas:</h2>
 
@@ -113,4 +113,17 @@
       src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
       alt="Python"
     />
+</div>
+<br>
+<div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LucasLimaPE&show_icons=true&locale=en" alt="leo02452" width=400px />
+  <br>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasLimaPE&show_icons=true&locale=en&layout=compact" alt="LucasLimaPE" width=400px />
+  <br>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasLimaPE&" alt="LucasLimaPE" width=400px />
+</p>
+
 </div>
