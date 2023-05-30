@@ -129,7 +129,7 @@ Atualmente, estou em busca da minha primeira oportunidade no mundo do desenvolvi
 </div>
 <br>
 <h2>Contato:</h2>
-<div>Email: malito:robertolucas011@gmail.com</div>
+<div>Email:  <a target="_blank" href="malito:robertolucas011@gmail.com"></a></div>
 <div>Linkedin: https://www.linkedin.com/in/dev-lucas-lima-pe/</div>
 <div>Telefone: (87) 99167-5622</div>
 <br>
