@@ -117,19 +117,19 @@ Atualmente, estou em busca da minha primeira oportunidade no mundo do desenvolvi
 <br>
 <div>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasLimaPE&show_icons=true&locale=en" alt="leo02452" width=400px />
+  <img src="https://github-readme-stats.vercel.app/api?username=devlimalucas&show_icons=true&locale=en" alt="devlimalucas" width=400px />
   <br>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasLimaPE&show_icons=true&locale=en&layout=compact" alt="LucasLimaPE" width=400px />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devlimalucas&show_icons=true&locale=en&layout=compact" alt="devlimalucas" width=400px />
   <br>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasLimaPE&" alt="LucasLimaPE" width=400px />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devlimalucas&" alt="devlimalucas" width=400px />
 </p>
 <br>
 </div>
 <br>
 <h2>Contato:</h2>
-<div>Email: robertolucas011@gmail.com</div>
+<div>Email: mailto:robertolucas011@gmail.com</div>
 <div>Linkedin: https://www.linkedin.com/in/dev-lucas-lima-pe/</div>
 <div>Telefone: (87) 99167-5622</div>
 <br>
