@@ -124,6 +124,5 @@
 <br>
 <h2>Contato:</h2>
 <div><a href="mailto:devlimalucas@gmail.com" >devlimalucas@gmail.com</a></div>
-<div><a href="https://www.linkedin.com/in/devlimalucas/" >Linkedin</a>/</div>
-<div>Telefone: (87) 99762-7919</div>
+<div><a href="https://www.linkedin.com/in/devlimalucas/" >Linkedin</a></div>
 <br>
