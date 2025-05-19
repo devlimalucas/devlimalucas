@@ -1,6 +1,4 @@
-  <p>Sou um entusiasta da tecnologia desde a infância, sempre fui fascinado em resolver problemas de forma lógica, tanto em jogos quanto no dia a dia. Recentemente, concluí o curso da Trybe, onde adquiri habilidades em Desenvolvimento Web Full Stack e me tornei capaz de criar soluções tecnológicas.
-
-Atualmente, estou em busca da minha primeira oportunidade no mundo do desenvolvimento. Tenho um forte interesse em Front-end, mas estou aberto a novos desafios. Possuo experiência em stacks como React JS, HTML, CSS, Javascript, Redux, Context API, Hooks e Router, e estou sempre buscando aprender novas tecnologias para aprimorar minhas habilidades. Estou animado para contribuir em projetos inovadores e colaborar com equipes talentosas.</p>
+<p>Sou um entusiasta de tecnologia desde a infância e sempre fui fascinado por resolver problemas de forma lógica, tanto em jogos quanto no dia a dia. Formado como Desenvolvedor Web Fullstack pela Trybe, atualmente estudo Técnico em Computação Gráfica no Instituto Federal de Pernambuco (IFPE) e participo da Aceleração Java na Trybe. Além disso, sou monitor (estagiário) de Ciências da Natureza no programa PartiuIF. Meu objetivo é transformar a minha vida e o mundo através da tecnologia e da educação.</p>
 
 <h2>Tecnologias e ferramentas:</h2>
 
@@ -125,7 +123,7 @@ Atualmente, estou em busca da minha primeira oportunidade no mundo do desenvolvi
 </div>
 <br>
 <h2>Contato:</h2>
-<div>Email: robertolucas011@gmail.com</div>
-<div>Linkedin: https://www.linkedin.com/in/dev-lucas-lima-pe/</div>
-<div>Telefone: (87) 99167-5622</div>
+<div><a href="mailto:devlimalucas@gmail.com" >devlimalucas@gmail.com</a></div>
+<div><a href="https://www.linkedin.com/in/devlimalucas/" >Linkedin</a>/</div>
+<div>Telefone: (87) 99762-7919</div>
 <br>
