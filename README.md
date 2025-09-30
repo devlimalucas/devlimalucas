@@ -1,4 +1,4 @@
-<p>Sou um entusiasta de tecnologia desde a infância e sempre fui fascinado por resolver problemas de forma lógica, tanto em jogos quanto no dia a dia. Formado como Desenvolvedor Web Fullstack pela Trybe, atualmente estudo Técnico em Computação Gráfica no Instituto Federal de Pernambuco (IFPE) e participo da Aceleração Java na Trybe. Além disso, sou monitor (estagiário) de Ciências da Natureza no programa PartiuIF. Meu objetivo é transformar a minha vida e o mundo através da tecnologia e da educação.</p>
+<p>Sou um entusiasta de tecnologia desde a infância e sempre fui fascinado por resolver problemas de forma lógica, tanto em jogos quanto no dia a dia. Formado como Desenvolvedor Web Fullstack pela Trybe, atualmente estou no último semestre do curso Técnico em Computação Gráfica no Instituto Federal de Pernambuco (IFPE) e estou no primeiro semestre do curso Tecnólogo em Análise e Desenvolvimento de Sistemas (IFPE). Além disso, sou monitor (estagiário) de Ciências da Natureza no programa PartiuIF (IFPE). Meu objetivo é transformar a minha vida e o mundo através da tecnologia e da educação.</p>
 
 <h2>Tecnologias e ferramentas:</h2>
 
