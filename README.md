@@ -1,4 +1,4 @@
-<p>Desenvolvedor Web Fullstack formado pela Trybe e entusiasta de tecnologia com paixão por resolver problemas de forma lógica. Minha jornada acadêmica combina habilidades técnicas e criativas, pois estou concluindo o curso Técnico em Computação Gráfica e iniciando o Tecnólogo em Análise e Desenvolvimento de Sistemas (ambos no IFPE). Além disso, atuo como monitor no programa PartiuIF e participo do NEABI(Núcleo de Estudos Afro-brasileiros e Indígenas), reforçando meu compromisso com a educação e a diversidade. Meu principal objetivo é utilizar a tecnologia para transformar vidas e comunidades, buscando atuar em um ambiente inovador, inclusivo e diverso.</p>
+<p>Desenvolvedor Web Fullstack com foco em desenvolvimento backend utilizando linguagens como C#, Java, Python e Javascript. Atualmente estou me graduando em Análise e Desenvolvimento de Sistemas e concluindo o curso Técnico em Computação Gráfica, ambos no IFPE, e estou participando do bootcamp Avanade Backend .Net com IA. Possuo experiência prática em mais de trinta aplicações web.</p>
 
 <h2>Tecnologias e ferramentas:</h2>
 
